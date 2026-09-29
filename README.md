@@ -43,3 +43,5 @@ $ ping 192.168.0.170
 64 bytes from 192.168.0.170: icmp_seq=1 ttl=64 time=0.531 ms
 64 bytes from 192.168.0.170: icmp_seq=2 ttl=64 time=0.412 ms
 64 bytes from 192.168.0.170: icmp_seq=3 ttl=64 time=0.398 ms
+
+![image alt](https://github.com/aayourmi-cyber/metasploitable2-vsftpd-backdoor/blob/4e381b2a2c501ab438432f02c198e775383fbcd3/1%20reconn%202026-08-11%20at%2021.40.45.png)
